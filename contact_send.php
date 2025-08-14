@@ -557,84 +557,52 @@ function myhtmlspecialchars($tstring) {
 
 
 
-
-
-		<!-- footer// ============================================================= -->
-		<div class="wd_footer wd_contact">
-
-			<div class="wd_footer_flex wd_flex">
-				<div class="wd_footer_itembox">
-					<div class="wd_footer_item_title">
-						企業名
-					</div>
-					<div class="wd_footer_item_story">
-						パーキング株式会社
-					</div>
-				</div>
-				<div class="wd_footer_itembox">
-					<div class="wd_footer_item_title">
-						所在地
-					</div>
-					<div class="wd_footer_item_story">
-						〒107-0052<br>
-						東京都港区赤坂４丁目９−１９ 赤坂Toビル 5階
-					</div>
-				</div>
-
-				<div class="wd_footer_itembox">
-					<div class="wd_footer_item_title">
-						ご連絡先
-					</div>
-					<div class="wd_footer_item_story wd_pc">
-						Tel：0120-96-1087<br>
-						Mail：<a href="mailto:info@par-king.co.jp">info@par-king.co.jp</a>
-					</div>
-					<div class="wd_footer_item_story wd_sp">
-						Tel：<a href="tel:0120-96-1087">0120-96-1087</a><br>
-						Mail：<a href="mailto:info@par-king.co.jp">info@par-king.co.jp</a>
-					</div>
-				</div>
-				<div class="wd_footer_itembox">
-					<div class="wd_footer_item_title">
-						営業時間
-					</div>
-					<div class="wd_footer_item_story">
-						営業日：月～金(祝日を除く)<br>
-						休業日：土、日、祝日、夏季、年末年始<br>
-						営業時間：10：00～18：00<br>
-						受付時間：10：30～17：30
-					</div>
-				</div>
-			</div>
-
-			<div class="wd_footer_belt">
-				<div class="wd_footer_belt_privacy">
-					<a href="https://par-king.co.jp/privacypolicy/index.html" target="_blank" class="wd_hoverfade">
-						プライバシーポリシー
-					</a>
-				</div>
-				<div class="wd_footer_belt_copy">
-					Copyright © 2024 パーキング All Rights Reserved.
-				</div>
-			</div>
-
-
-		</div>
-		<!-- //footer ============================================================= -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	</div> <!-- //container -->
+
+	<div class="section-08">
+	<div class="inner-common">
+		<div class="company">
+			<table>
+				<tr>
+				<th>企業名</th>
+				<td>パーキング株式会社</td>
+				</tr>
+				<tr>
+				<th>所在地</th>
+				<td>〒150-0041<br>東京都渋谷区神南１丁目１１−４ ＦＰＧリンクス神南 5階</td>
+				</tr>
+				<tr>
+				<th>ご連絡先</th>
+				<td>Tel：0120-96-1087<br>Mail：info@par-king.co.jp</td>
+				</tr>
+				<tr>
+				<th>営業時間</th>
+				<td>営業日：月～金(祝日を除く)<br>
+					休業日：土、日、祝日、夏季、年末年始<br>
+					営業時間：10：00～18：00<br>
+					受付時間：10：30～17：30
+				</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
+
+
+<footer>
+	<div class="inner-common">
+		<a href="https://par-king.co.jp/privacypolicy/index.html" target="_blank">プライバシーポリシー</a>
+		<div class="social">
+			<ul>
+				<li><a href="https://www.facebook.com/share/1Y3C2hHrwp/?mibextid=wwXIfr" target="_blank"><img src="images/ic-fb@2x.png" alt=""></a></li>
+				<li><a href="https://lin.ee/gfP3Yj1" target="_blank"><img src="images/ic-line@2x.png" alt=""></a></li>
+				<li><a href="https://x.com/parkingassist?s=21" target="_blank"><img src="images/ic-x@2x.png" alt=""></a></li>
+				<li><a href="https://www.instagram.com/par_king001?igsh=MWRnOHQzcjhwbXEwaQ%3D%3D&utm_source=qr" target="_blank"><img src="images/ic-insta@2x.png" alt=""></a></li>
+				<li><a href="https://www.tiktok.com/@parkingassist?is_from_webapp=1&sender_device=pc" target="_blank"><img src="images/ic-tt@2x.png" alt=""></a></li>
+			</ul>
+		</div>
+		<p>Copyright © 2025 パーキング All Rights Reserved.</p>
+	</div>
+</footer>
 </body>
 </html>
